@@ -1,0 +1,5 @@
+bin/
+lib/
+src/Test/
+*.class
+*.vscode/
